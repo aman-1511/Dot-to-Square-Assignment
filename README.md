@@ -12,11 +12,14 @@ https://github.com/user-attachments/assets/e4f87608-c9b6-4388-ba0f-d6d4e586819a
 
 ### Screenshots
 
-![Drawing in progress - 3 dots connected](https://example.com/path-to-screenshot1.jpg)
+![Drawing in progress - 3 dots connected]
+![Image](https://github.com/user-attachments/assets/860c343b-10c7-46f4-9a20-ff4b569c2220)
 
-![Completed square with feedback message](https://example.com/path-to-screenshot2.jpg)
+![Completed square with feedback message]
+![Image](https://github.com/user-attachments/assets/d9309819-8f3d-45d6-befd-398a345bbd80)
 
-![Multiple squares created on the page](https://example.com/path-to-screenshot3.jpg)
+![Multiple squares created on the page]
+![Image](https://github.com/user-attachments/assets/b131f12c-2be7-4f58-93d8-784d9d0358ca)
 
 
 
