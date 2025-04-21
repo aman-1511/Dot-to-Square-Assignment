@@ -6,6 +6,10 @@ This React application allows users to create a square by clicking anywhere on t
 
 ## Demo
 
+### Video Demo
+
+https://github.com/user-attachments/assets/e4f87608-c9b6-4388-ba0f-d6d4e586819a
+
 ### Screenshots
 
 ![Drawing in progress - 3 dots connected](https://example.com/path-to-screenshot1.jpg)
@@ -14,9 +18,7 @@ This React application allows users to create a square by clicking anywhere on t
 
 ![Multiple squares created on the page](https://example.com/path-to-screenshot3.jpg)
 
-### Video Demo
 
-[![Dot-to-Square Demo Video](https://example.com/video-thumbnail.jpg)](https://example.com/demo-video-link)
 
 *Click the image above to watch the demo video*
 
