@@ -150,6 +150,4 @@ The DotToSquare component uses several state variables:
 
 
 
-## License
 
-[MIT License](LICENSE)
